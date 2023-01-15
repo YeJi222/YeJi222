@@ -25,10 +25,10 @@
     
 ## 🌱 Github Status 🌱
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=dracula&show_icons=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=&show_icons=true" height="180px" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=dracula" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=" height="180px"/>
 </a>
 
 <a href="s">
