@@ -38,4 +38,4 @@
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 </div>
 
-<iframe src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FIC7YR5TdStMTQDS1knBjUi%2Fround3(-%25EC%2582%25AC%25EC%2584%259C%25ED%2595%25A8-)%3Fnode-id%3D3%253A9%26t%3DvKTUulJKUCEGkBAG-1" allowfullscreen></iframe>
+<i class="fa-solid fa-user"></i>
