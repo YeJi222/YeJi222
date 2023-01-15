@@ -22,9 +22,15 @@
   
 ## ✨ Database ✨
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+    
+## 🌱 Github Status 🌱
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=&show_icons=true" width="45%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=" />
+</a>
   
-![YeJi's status](https://github-readme-stats.vercel.app/api?username=YeJi222&theme=)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
