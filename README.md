@@ -23,10 +23,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   
 ![YeJi's status](https://github-readme-stats.vercel.app/api?username=YeJi222&theme=)
-![YeJi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&layout=compact&theme=)
+![YeJi's github](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&layout=compact&theme=)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YeJi222&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 </div>
