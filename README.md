@@ -1,10 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YeJi's%20Profile&fontSize=90)
-# Hello, I'm YeJi 👋🏻  
-### I'm a student who dreams of becoming a backend developer 🌱
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YeJi's%20Profile&fontSize=90)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello%2C+I'm+YeJi+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+student+who+dreams+of+becoming+a+backend+developer+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-com&count_bg=%23F2A2FD&title_bg=%23D2D2F0&icon=github.svg&icon_color=%23F7ABAB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=YeJi222&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222&theme=default)
 
 ## ✨ Stacks ✨
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">   
