@@ -6,7 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-com&count_bg=%23F2A2FD&title_bg=%23D2D2F0&icon=github.svg&icon_color=%23F7ABAB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=YeJi222&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222&theme=default)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YeJi222&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Stacks ✨
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white">   
@@ -23,10 +24,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   
 ![YeJi's status](https://github-readme-stats.vercel.app/api?username=YeJi222&theme=)
-![YeJi's github](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&layout=compact&theme=)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YeJi222&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 </div>
