@@ -20,9 +20,9 @@
 ## ✨ DB ✨
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   
-![YeJi's github stats](https://github-readme-stats.vercel.app/api?username=YeJi222&show_icons=true&theme=dark&hide_border=true)
+![YeJi's status](https://github-readme-stats.vercel.app/api?username=YeJi222&theme=)
 ![YeJi's github status](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&layout=compact&theme=)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ji_222)](https://solved.ac/ji_222)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YeJi222&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
