@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-com&count_bg=%23F2A2FD&title_bg=%23D2D2F0&icon=github.svg&icon_color=%23F7ABAB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=YeJi222&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YeJi222&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Stacks ✨
@@ -25,13 +25,15 @@
     
 ## 🌱 Github Status 🌱
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=&show_icons=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=dracula&show_icons=true" height="180px" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=dracula" height="180px"/>
 </a>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YeJi222)
+
+<a href="s">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YeJi222&theme=xcode" width="85%" />
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
 </div>
