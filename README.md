@@ -24,12 +24,17 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
     
 ## 🌱 Github Status 🌱
+[![YeJi222's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeJi222)](https://github.com/YeJi222/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&layout=compact)](https://github.com/YeJi222/github-readme-stats)
+ 
+<!--
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=YeJi222&theme=&show_icons=true" height="180px" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeJi222&exclude_repo=dkssud8150.github.io&layout=compact&theme=" height="180px"/>
 </a>
+-->
 
 <a href="s">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YeJi222&theme=xcode" width="85%" />
