@@ -4,6 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1800&pause=2000&color=195874&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello%2C+I'm+YeJi+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+student+who+dreams+of+becoming+a+backend+developer+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 ![visitor count](https://profile-counter.glitch.me/YeJi222/count.svg)
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ji_222)](https://solved.ac/ji_222/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-com&count_bg=%23F2A2FD&title_bg=%23D2D2F0&icon=github.svg&icon_color=%23F7ABAB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
